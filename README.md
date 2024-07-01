@@ -78,8 +78,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protap1100&repo=La-Ri-Sa-Client&About=Comprehensive%20room%20booking%20platform%20for%20tourists%20seeking%20convenient%20accommodations)](https://github.com/protap1100/La-Ri-Sa-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protap1100&repo=Sketch-Verse-Client&About=Mini%20e-commerce%20platform%20where%20users%20can%20buy%20and%20sell%20paintings%20and%20artworks)](https://github.com/protap1100/Sketch-Verse-Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protap1100&repo=Meal-buddy-client&About=Student%20meal%20ordering%20service%20simplifying%20meal%20ordering%20for%20students%20with%20a%20variety%20of%20meal%20options)](https://github.com/protap1100/Meal-buddy-client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protap1100&repo=php-Food-ordering&About=Food%20ordering%20system%20built%20using%20PHP%20for%20restaurants%20and%20customers)](https://github.com/protap1100/php-Food-ordering)
-
 
 
 
