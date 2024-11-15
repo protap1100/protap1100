@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Village-Management](https://github.com/protap1100/village-management)
 
-- 🌱 I’m currently learning **React,NextJs**
+- 🌱 I’m currently learning **Typescript,Node,Express,Mongoose**
 
 - 💬 Ask me about **React,Next Js**
 
