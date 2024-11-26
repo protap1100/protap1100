@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **protapb23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cV3KBG5B8V_tkgVqfRkX_TncC-Pcinx-/view?usp=sharing](https://drive.google.com/file/d/1cV3KBG5B8V_tkgVqfRkX_TncC-Pcinx-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cV3KBG5B8V_tkgVqfRkX_TncC-Pcinx-/view?usp=sharing](https://drive.google.com/file/d/1Dy4De9R8kZEot9eXGIUIzNe8Cr2vSqQh/view)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
