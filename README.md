@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Savar,Dhaka, Bangladesh</h3>
 <img src="https://i.ibb.co/xjjV1cV/Messenger-creation-a739ae06-d0ee-4b00-a78c-0f0e9503132b.jpg" alt="Banner Image" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=protap1100&label=Profile%20views&color=0e75b6&style=flat" alt="protap1100" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=protap1100&label=Profile%20views&color=0e75b6&style=flat" alt="protapb1100" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protap1100" alt="protap1100" /></a> </p>
 
