@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Village-Management](https://github.com/protap1100/village-management)
 
-- 🌱 I’m currently learning **Typescript,Node Js,Express Js,Mongoose, MongoDB**
+- 🌱 I’m currently learning **Typescript,Node Js,Express Js,Mongoose, MongoDB, Material UI**
 
 - 💬 Ask me about **React,Next Js, JavaScript**
 
