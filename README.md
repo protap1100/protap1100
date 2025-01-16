@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Typescript,Node Js,Express Js,Mongoose, MongoDB, Material UI**
 
-- 💬 Ask me about **React,Next Js, JavaScript**
+- 💬 Ask me about **React,Next Js, JavaScript, Typescript**
 
 - 📫 How to reach me **protapb23@gmail.com**
 
