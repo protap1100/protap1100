@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protap1100" alt="protap1100" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/protapb110" target="blank"><img src="https://img.shields.io/twitter/follow/protapb110?logo=twitter&style=for-the-badge" alt="protapb110" /></a> </p>
+<p align="left"> <a href="https://twitter.com/protapb110" ><img src="https://img.shields.io/twitter/follow/protapb110?logo=twitter&style=for-the-badge" alt="protapb110" /></a> </p>
 
 - 🔭 I’m currently working on [Village-Management](https://github.com/protap1100/village-management)
 
