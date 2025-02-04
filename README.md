@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Protap Biswas</h1>
+<h1 align="center">Hi 👋, I am Protap Biswas</h1>
 <h3 align="center">A passionate frontend developer from Savar,Dhaka, Bangladesh</h3>
 <img src="https://i.ibb.co/xjjV1cV/Messenger-creation-a739ae06-d0ee-4b00-a78c-0f0e9503132b.jpg" alt="Banner Image" width="100%">
 
