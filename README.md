@@ -85,36 +85,19 @@
 [![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)](https://nodemon.io/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-
 </div>
-
 ---
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=protap1100&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="protap1100" />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=protap1100&" alt="protap1100" /></p>
-
-
-
-
-
-<h3 align="left">Projects:</h3>
-
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=protap1100&theme=black-ice&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=00FFFF&currStreakNum=FFFFFF&dates=808080" 
+    alt="GitHub Streak Stats" 
+  />
+</p>
 ---
-
-## Pinned Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protap1100&repo=La-Ri-Sa-Client&About=Comprehensive%20room%20booking%20platform%20for%20tourists%20seeking%20convenient%20accommodations)](https://github.com/protap1100/La-Ri-Sa-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protap1100&repo=Sketch-Verse-Client&About=Mini%20e-commerce%20platform%20where%20users%20can%20buy%20and%20sell%20paintings%20and%20artworks)](https://github.com/protap1100/Sketch-Verse-Client)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=protap1100&repo=Meal-buddy-client&About=Student%20meal%20ordering%20service%20simplifying%20meal%20ordering%20for%20students%20with%20a%20variety%20of%20meal%20options)](https://github.com/protap1100/Meal-buddy-client)
-
-
-
-
 # Projects
-
 ## Meal Buddy
 [Live Link](https://mealbuddy-80bc1.web.app) | [GitHub Server](https://github.com/protap1100/Meal-buddy-server) | [GitHub Client](https://github.com/protap1100/Meal-buddy-client)
 
