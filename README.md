@@ -37,8 +37,22 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
-
-
+<h3 align="left">Problem Solving Link:</h3>
+## 🧩 Problem Solving Profiles
+<div align="left">
+  <a href="https://codeforces.com/profile/protapb1100">
+    <img src="https://img.shields.io/badge/Codeforces-3366CC?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/protapb1/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/protapb1100">
+    <img src="https://img.shields.io/badge/CodeChef-43853D?style=for-the-badge&logo=codechef&logoColor=white" height="35" alt="CodeChef" />
+  </a>
+  <a href="https://judge.beecrowd.com/en/profile/1160944">
+    <img src="https://img.shields.io/badge/Beecrowd-00BFFF?style=for-the-badge&logo=&logoColor=white" height="35" alt="Beecrowd" />
+  </a>
+</div>
 <h3 align="left">Languages and Tools:</h3>
 
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
