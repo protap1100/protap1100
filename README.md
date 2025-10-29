@@ -53,8 +53,8 @@
     <img src="https://img.shields.io/badge/Beecrowd-00BFFF?style=for-the-badge&logo=&logoColor=white" height="35" alt="Beecrowd" />
   </a>
 </div>
-## 🛠️ Tech Stack & Tools
 
+<h3 align="left">## 🛠️ Tech Stack & Tools </h3>
 <div align="center">
 
 ### 💻 **Main Stack**
