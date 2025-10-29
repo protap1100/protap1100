@@ -86,17 +86,21 @@
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 </div>
+
 ---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=protap1100&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="protap1100" />
 </p>
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=protap1100&theme=black-ice&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=00FFFF&currStreakNum=FFFFFF&dates=808080" 
-    alt="GitHub Streak Stats" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=protap1100&theme=dark&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=FFFFFF&sideLabels=00FFFF&currStreakNum=FFFFFF&dates=808080" 
+    alt="GitHub Streak Stats"
   />
 </p>
+
 ---
+
 # Projects
 ## Meal Buddy
 [Live Link](https://mealbuddy-80bc1.web.app) | [GitHub Server](https://github.com/protap1100/Meal-buddy-server) | [GitHub Client](https://github.com/protap1100/Meal-buddy-client)
