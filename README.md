@@ -37,13 +37,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
 </div>
-<h3 align="left">Problem Solving Link:</h3>
-## 🧩 Problem Solving Profiles
+<h3 align="left">🧩 Problem Solving Profiles:</h3>
+
 <div align="left">
-  <a href="https://codeforces.com/profile/protapb1100">
+  <a href="https://codeforces.com/profile/protap1100">
     <img src="https://img.shields.io/badge/Codeforces-3366CC?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces" />
   </a>
-  <a href="https://leetcode.com/protapb1/">
+  <a href="https://leetcode.com/u/protap1/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/protapb1100">
