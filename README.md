@@ -110,7 +110,7 @@
 **Key Features:**
 - Authentication
 - User can Order Food for meal
-- Json Web Token
+- Json Web Token(Jwt)
 - Stripe Payment Gateway
 - Admin Dashboard
 
