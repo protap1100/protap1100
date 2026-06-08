@@ -53,8 +53,10 @@
     <img src="https://img.shields.io/badge/Beecrowd-00BFFF?style=for-the-badge&logo=&logoColor=white" height="35" alt="Beecrowd" />
   </a>
 </div>
+
 <h3 align="left">Other Extra Skill:</h3>
-<a href="https://monkeytype.com/profile/YOUR_USERNAME">
+
+<a href="https://monkeytype.com/profile/protapb1100">
   <img src="https://img.shields.io/badge/Monkeytype-323437?style=for-the-badge&logo=monkeytype&logoColor=white" height="35" alt="Monkeytype" />
 </a>
 
