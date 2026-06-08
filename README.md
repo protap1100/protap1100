@@ -43,10 +43,10 @@
   <a href="https://codeforces.com/profile/protap1100">
     <img src="https://img.shields.io/badge/Codeforces-3366CC?style=for-the-badge&logo=codeforces&logoColor=white" height="35" alt="Codeforces" />
   </a>
-  <a href="https://leetcode.com/u/protap1/">
+  <a href="https://leetcode.com/u/protap6/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" alt="LeetCode" />
   </a>
-  <a href="https://www.codechef.com/users/protapb1100">
+  <a href="https://www.codechef.com/users/protapb6">
     <img src="https://img.shields.io/badge/CodeChef-43853D?style=for-the-badge&logo=codechef&logoColor=white" height="35" alt="CodeChef" />
   </a>
   <a href="https://judge.beecrowd.com/en/profile/1160944">
