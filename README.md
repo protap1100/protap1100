@@ -54,11 +54,14 @@
   </a>
 </div>
 
-<h3 align="left">Other Extra Skill:</h3>
+<h3 align="left">Competitive Typing and others link:</h3>
 
 <a href="https://monkeytype.com/profile/protapb1100">
   <img src="https://img.shields.io/badge/Monkeytype-323437?style=for-the-badge&logo=monkeytype&logoColor=white" height="35" alt="Monkeytype" />
 </a>
+ <a href="https://data.typeracer.com/pit/profile?user=protapb1100">
+    <img src="https://img.shields.io/badge/TypeRacer-0078D7?style=for-the-badge&logoColor=white" height="35" alt="TypeRacer" />
+  </a>
 
 <h3 align="left">🛠️ Tech Stack & Tools </h3>
 <div align="center">
