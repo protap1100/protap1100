@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Protap Biswas</h1>
-<h3 align="center">A passionate frontend developer from Savar,Dhaka, Bangladesh</h3>
+<h3 align="center">A passionate Software developer from Savar,Dhaka, Bangladesh</h3>
 <img src="https://i.ibb.co.com/STm74d3/Protap-Biswas-2.png" alt="Banner Image" width="100%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protap1100&label=Profile%20views&color=0e75b6&style=flat" alt="protapb1100" /> </p>
