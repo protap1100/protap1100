@@ -146,7 +146,7 @@ HTML, CSS, Tailwind CSS, JavaScript, React, Firebase, Node.js, Express.js, Mongo
 - Authentication
 - User Can Take Rent Room or Resort
 - Admin Dashboard
-- Json Web Token
+- Json Web Token(jwt)
 
 **Technologies Used:**
 HTML, CSS, Tailwind CSS, JavaScript, React, Firebase, Node.js, Express.js, MongoDB
