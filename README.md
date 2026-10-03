@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/TypeRacer-0078D7?style=for-the-badge&logoColor=white" height="35" alt="TypeRacer" />
   </a>
 
-<h3 align="left">🛠️ Tech Stack & Tools </h3>
+<h3 align="left">🛠️ Techonology Stack & Tools </h3>
 <div align="center">
 
 ### 💻 **Main Stack**
